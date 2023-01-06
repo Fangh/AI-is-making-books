@@ -27,14 +27,18 @@ I wanted to experiment and learn. I wanted to question the boundaries of the cre
 
 # How ?
 
-* I firstly ask ChatGPT to create the story in 10 parts
-* I also ask ChatGPT how to publish that
-* I also ask ChatGPT to create the author name
-* I also ask ChatGPT to explain me how to create an e-book (because I did not know)
-* Then I coppy paste every parts in StableDiffusion as a prompt using [Artbot](https://tinybots.net/artbot/info). Thanks to [Stable Horde](https://stablehorde.net/) it was free to use.
+* I firstly asked [ChatGPT](./ChatGPT.png) to create the story in 10 parts
+* I also asked ChatGPT how to publish that
+* I also asked ChatGPT to create the author name
+* I also asked ChatGPT to explain me how to create an e-book (because I did not know)
+* Then I copy paste every parts in StableDiffusion as a prompt using [Artbot](https://tinybots.net/artbot/info). Thanks to [Stable Horde](https://stablehorde.net/) it was free to use.
 * I added "joyful, colorful, drawing, a young dinosaur, children's book" on every prompts + k_euler_a + 30 steps
+
+![ChatGPT](./ChatGPT.png)
+
 
 # How much time does it took ?
 
-* 2H : from opening ChatGPT website, putt
+* 2H : from opening ChatGPT website, to the end
+* 1H : to create this blog post
 
