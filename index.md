@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# What ?
 
-[Link to another page](./another-page.html).
+I have published an e-book on [Amazon Kindle Store](https://www.amazon.com/dp/B0BRSYCRYB) that is called **Nico The Dinosaur**. All the texts have been created by [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and all the images by [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion). This is an experimental artwork.
 
-There should be whitespace between paragraphs.
+![Nico The Dinosaur](https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51mXXU8bFgL.jpg)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# You are selling that ?
 
-# Header 1
+* I don't care about the money, every profits will be donated to GiveWell(https://www.givewell.org/) but I suspect I will get 0$
+* it's only 0.99$ btw. so if you want to give 70
+* It cost me 0$ to make it (only a windows, a photoshop licence and some electrity)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Why ?
 
-## Header 2
+I wanted to experiment and learn. I wanted to question the boundaries of the creations, of imagination, of publishing, of being an author, etc...
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* Am I an author for publishing a book ?
+* Should Amazon Kindle Store let people publish book that have been entierly created by AI ?
+* Could we automate this process with an API and publish 10000 books per day automatically ?
+* Does authors should fight again that kind of process ?
+* Is it legal ?
+* Is it a good book ?
 
-### Header 3
+# How ?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* I firstly ask ChatGPT to create the story in 10 parts
+* I also ask ChatGPT how to publish that
+* I also ask ChatGPT to create the author name
+* I also ask ChatGPT to explain me how to create an e-book (because I did not know)
+* Then I coppy paste every parts in StableDiffusion as a prompt using [Artbot](https://tinybots.net/artbot/info). Thanks to [Stable Horde](https://stablehorde.net/) it was free to use.
+* I added "joyful, colorful, drawing, a young dinosaur, children's book" on every prompts + k_euler_a + 30 steps
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# How much time does it took ?
 
-#### Header 4
+* 2H : from opening ChatGPT website, putt
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
