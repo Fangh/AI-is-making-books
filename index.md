@@ -44,7 +44,7 @@ I wanted to experiment and learn. I wanted to question the boundaries of the cre
 14. Finish !
 
 ![ChatGPT](./ChatGPT.png)
-![How to sell a book](./selling books.png)
+![How to sell a book](./selling%20books.png)
 
 
 # How much time does it took ?
