@@ -24,6 +24,7 @@ I wanted to experiment and learn. I wanted to question the boundaries of the cre
 * Could we automate this process with an API and publish 10000 books per day automatically ?
 * Does authors should fight again that kind of process ?
 * Is it legal ?
+* Is it still legal if I used a specific artist name in the prompt ? Could it be considered as Plagiarism ?
 * Is it a good book ?
 
 # How ?
