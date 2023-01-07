@@ -27,14 +27,24 @@ I wanted to experiment and learn. I wanted to question the boundaries of the cre
 
 # How ?
 
-* I firstly asked [ChatGPT](./ChatGPT.png) to create the story in 10 parts
-* I also asked ChatGPT how to publish that
-* I also asked ChatGPT to create the author name
-* I also asked ChatGPT to explain me how to create an e-book (because I did not know)
-* Then I copy paste every parts in StableDiffusion as a prompt using [Artbot](https://tinybots.net/artbot/info). Thanks to [Stable Horde](https://stablehorde.net/) it was free to use.
-* I added "joyful, colorful, drawing, a young dinosaur, children's book" on every prompts + k_euler_a + 30 steps
+1. I firstly asked [ChatGPT](./ChatGPT.png) to create the story in 10 parts
+2. I also asked ChatGPT how to publish that on amazon
+3. I also asked ChatGPT to create the author name
+4. I also asked ChatGPT to explain me how to create an e-book (because I did not know)
+4. Then I copy paste every parts in StableDiffusion as a prompt using [Artbot](https://tinybots.net/artbot/info). Thanks to [Stable Horde](https://stablehorde.net/) it was free to use.
+5. I added "joyful, colorful, drawing, a young dinosaur, children's book" on every prompts + k_euler_a + 30 steps
+6. Then I downloaded all the images and opened photoshop
+7. I used photoshop to expand the image on the left then used the "Content Aware" tool to create the left part of each page
+8. When photoshop generated me some artifacts I used the [Spot Healing Brush tool](https://helpx.adobe.com/photoshop/using/tool-techniques/spot-healing-brush.html) to remove them
+9. I used the Segoe Print Bold font and copy paste the story from ChatGPT
+10. I created 10 jpg with the 10 images and the 10 story parts. That was the longest part. This is what take most of my time because it was manual editing.
+11. I used Kindle Create and imported each image one by one
+12. I exported with Kindle Create
+13. I created an account on [Amazon Kindle Publishing](https://kdp.amazon.com/) then uploaded my Kindle Create export file.
+14. Finish !
 
 ![ChatGPT](./ChatGPT.png)
+![How to sell a book](./selling books.png)
 
 
 # How much time does it took ?
