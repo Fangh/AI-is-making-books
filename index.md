@@ -8,7 +8,7 @@ I have published an e-book on [Amazon Kindle Store](https://www.amazon.com/dp/B0
 
 ![Nico The Dinosaur](https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51mXXU8bFgL.jpg)
 
-# You are selling that ?
+# Are you selling that ?
 
 * I don't care about the money, every profits will be donated to GiveWell(https://www.givewell.org/) but I suspect I will get 0$.
 * It's 0.99$ but amazon is taking 65% and I received 35%.
