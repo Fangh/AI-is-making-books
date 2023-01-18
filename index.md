@@ -24,7 +24,7 @@ I wanted to experiment and learn. I wanted to question the boundaries of the cre
 * Should Amazon Kindle Store let people publish book that have been entierly created by AI ?
 * Could we automate this process with an API and publish 10000 books per day automatically ?
 * Does authors should fight again that kind of process ?
-* Is it legal ?
+* Is it legal ? (some people [filed a lawsuit challenging this idea](https://stablediffusionlitigation.com/))
 * Is it still legal if I used a specific artist name in the prompt ? Could it be considered as Plagiarism ?
 * Is it a good book ?
 
