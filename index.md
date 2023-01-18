@@ -10,7 +10,7 @@ I have published an e-book on [Amazon Kindle Store](https://www.amazon.com/dp/B0
 
 # Are you selling that ?
 
-* I don't care about the money, every profits will be donated to GiveWell(https://www.givewell.org/) but I suspect I will get 0$.
+* I don't care about the money, every profits will be donated to [GiveWell](https://www.givewell.org/) but I suspect I will get 0$.
 * It's 0.99$ but amazon is taking 65% and I received 35%.
 * Please don't buy it
 * It cost me 0$ to make it (only a windows, a photoshop licence and some electrity).
